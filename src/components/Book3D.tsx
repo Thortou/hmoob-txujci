@@ -123,7 +123,7 @@ export default function Book3D({
                 {/* Back Cover */}
                 <div className="book-cover book-cover-back" style={{ backgroundColor: coverColor }}>
                     <div className="cover-content back-cover">
-                        <p className="back-text">Click to close ok</p>
+                        <p className="back-text">Click to close ok der</p>
                     </div>
                 </div>
             </div>
