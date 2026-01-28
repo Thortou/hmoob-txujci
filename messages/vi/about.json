@@ -1,0 +1,109 @@
+{
+  "title": "Giới thiệu Văn hóa H'mông",
+  "subtitle": "Khám phá Di sản Phong phú của Người H'mông",
+  "hero": {
+    "description": "Khám phá những truyền thống rực rỡ, phong tục lâu đời và trí tuệ vĩnh cửu của cộng đồng người H'mông trên toàn thế giới. Từ các nghi thức cổ xưa đến cuộc sống hàng ngày tại ngôi làng, hãy trải nghiệm vẻ đẹp của một nền văn hóa đã gìn giữ bản sắc qua nhiều thế hệ."
+  },
+  "sections": {
+    "newYear": {
+      "title": "Tết H'mông - Noj Peb Caug",
+      "subtitle": "Lễ Hội Tái sinh và Đoàn kết",
+      "description": "Tết H'mông, được tổ chức hàng năm, là lễ hội văn hóa quan trọng nhất đánh dấu sự kết thúc của mùa gặt và sự bắt đầu của năm mới. Đây là thời điểm để vinh danh, tâm linh và gắn kết cộng đồng.",
+      "traditions": [
+        "Ném bóng (pov pob) giữa thanh nam và thiếu nữ",
+        "Trang phục truyền thống đầy màu sắc với thêu chỉ tay",
+        "Nhạc múa và biểu diễn văn hóa",
+        "Tiệc tùng cùng gia đình và cộng đồng",
+        "Tôn kính tổ tiên và cầu chúc cho năm mới"
+      ],
+      "duration": "Được tổ chức từ 3-7 ngày, thường vào tháng 11 hoặc 12"
+    },
+    "farming": {
+      "title": "Nông nghiệp Truyền thống",
+      "subtitle": "Sống Hài hòa với Đất đai",
+      "description": "Nông nghiệp là nền tảng của cuộc sống người H'mông trong nhiều thế kỷ. Nông dân H'mông đã phát triển các phương pháp canh tác bền vững thích ứng với vùng núi, trồng lúa, ngô, rau và thuốc.",
+      "practices": [
+        "Trồng lúa trên ruộng bậc thang núi cao",
+        "Kỹ thuật canh tác bền vững truyền qua nhiều thế hệ",
+        "Trồng rau và thuốc truyền thống",
+        "Chăn nuôi bao gồm gà, lợn và trâu",
+        "Bảo quản hạt giống cho vụ mùa sau"
+      ],
+      "philosophy": "Làm việc với thiên nhiên, tôn trọng đất đai và chia sẻ mùa màng"
+    },
+    "wedding": {
+      "title": "Lễ cưới",
+      "subtitle": "Liên kết Thiêng liêng của Hai tâm hồn",
+      "description": "Đám cưới H'mông là lễ kỷ niệm kéo dài nhiều ngày đầy ý nghĩa với các nghi thức, trao đổi biểu tượng và sự tham gia của cộng đồng. Nghi lễ không chỉ gắn kết hai cá nhân mà còn gắn kết hai gia đình.",
+      "traditions": [
+        "Đàm phán giá cưới (nqee hnyuj)",
+        "Nghi thức chia tay của cô dâu khỏi gia đình",
+        "Tiệc cưới với thức ăn và nhạc truyền thống",
+        "Trao đổi quà tặng và phước lành giữa hai gia đình",
+        "Hành trình của chú rể đưa cô dâu về nhà"
+      ],
+      "symbolism": "Đám cưới biểu tượng sự liên kết của dòng họ và sự tiếp nối truyền thống H'mông"
+    },
+    "villageLife": {
+      "title": "Cuộc sống Làng và Tuổi thơ",
+      "subtitle": "Lớn lên trong Cộng đồng",
+      "description": "Làng người H'mông là những cộng đồng gắn kết nơi trẻ em lớn lên bao quanh bởi gia đình lớn, học hỏi truyền thống, ngôn ngữ và giá trị thông qua cuộc sống hàng ngày và trò chơi.",
+      "activities": [
+        "Trẻ em chơi trò chơi truyền thống ở sân làng",
+        "Học nghề thủ công và kỹ năng từ người cao tuổi",
+        "Giúp việc nhà và làm ruộng",
+        "Các buổi kể chuyện bảo tồn lịch sử truyền miệng",
+        "Lễ hội và tụ họp cộng đồng"
+      ],
+      "values": "Sự tôn trọng, hợp tác cộng đồng và bảo tồn bản sắc văn hóa"
+    }
+  },
+  "values": {
+    "title": "Giá trị Cốt lõi của H'mông",
+    "subtitle": "Nguyên tắc Định hướng Lối sống",
+    "items": [
+      {
+        "title": "Gia đình là Trước",
+        "description": "Gia đình là trung tâm của xã hội H'mông, chú trọng tôn trọng người cao tuổi và chăm sóc trẻ em"
+      },
+      {
+        "title": "Đoàn kết Cộng đồng",
+        "description": "Sự hạnh phúc chung và hỗ trợ lẫn nhau là thiết yếu cho sự thịnh vượng của cộng đồng"
+      },
+      {
+        "title": "Bảo tồn Văn hóa",
+        "description": "Truyền lại truyền thống, ngôn ngữ và phong tục cho các thế hệ tương lai"
+      },
+      {
+        "title": "Hài hòa với Thiên nhiên",
+        "description": "Sống bền vững và tôn trọng môi trường tự nhiên"
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Góc nhìn Cuộc sống H'mông",
+    "images": [
+      {
+        "alt": "Lễ Tết H'mông với trang phục truyền thống"
+      },
+      {
+        "alt": "Nông nghiệp truyền thống trên ruộng bậc thang"
+      },
+      {
+        "alt": "Lễ cưới H'mông"
+      },
+      {
+        "alt": "Trẻ em đang chơi trong làng"
+      }
+    ]
+  },
+  "callToAction": {
+    "title": "Trải nghiệm Văn hóa H'mông",
+    "description": "Tham gia cùng chúng tôi trong việc bảo tồn và tôn vinh di sản phong phú của người H'mông trên toàn thế giới.",
+    "button": "Tham gia Cộng đồng",
+    "secondaryButton": "Khám phá Thêm"
+  },
+  "meta": {
+    "description": "Khám phong phú truyền thống và di sản văn hóa của người H'mông, bao gồm lễ Tết, nông nghiệp truyền thống, lễ cưới và cuộc sống làng quê."
+  }
+}

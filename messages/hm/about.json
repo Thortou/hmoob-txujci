@@ -1,0 +1,109 @@
+{
+  "title": "Txog Hmoob Kev Lag Luam",
+  "subtitle": "Xov txog Hmoob Lub Neej thiab Kev Cai",
+  "hero": {
+    "description": "Saib txog Hmoob kev dag, kev cai, thiab kev paub tshiab ntawm Hmoob community hnub tom ntej. Starting from ancient ceremonies to daily village life, experience the beauty of a culture that has preserved its identity across generations."
+  },
+  "sections": {
+    "newYear": {
+      "title": "Hmoob Tub Ntxhais Kawm - Noj Peb Caug",
+      "subtitle": "Kev Hlub Ntshiab ntawm Hmoob",
+      "description": "Hmoob New Year, tom qab mus rau xyoo, yog qhov tshaj plaws Hmoob cultural festival marking the end of the harvest season and the beginning of a new year. It is a time for honor, spirit, and community bonding.",
+      "traditions": [
+        "Pov pob - ball tossing between young men and women",
+        "Hmoov xyaum - colorful traditional clothing with embroidery",
+        "Lauj, qeej, thiab ncas - music, dance, and performances",
+        "Noj mov - feasting with family and community",
+        "Hu plig - honoring ancestors and blessings"
+      ],
+      "duration": "Celebrated for 3-7 days, typically in November or December"
+    },
+    "farming": {
+      "title": "Kev Haum Xyaum Hmoob",
+      "subtitle": "Ua haum rau ntawm yaj",
+      "description": "Agriculture has been the cornerstone of Hmoob life for centuries. Hmoob farmers have developed sustainable farming practices adapted to mountainous regions, growing rice, corn, vegetables, and herbs.",
+      "practices": [
+        "Haum mov rau sab ncauj - rice cultivation on terraced fields",
+        "Kee haum xyaum - sustainable farming techniques",
+        "Haum nkhaus thiab ntsuab - growing vegetables and herbs",
+        "Sib tw haum rooj, mov, thiab kwv - animal husbandry",
+        "Tee pob - preserving seeds for future seasons"
+      ],
+      "philosophy": "Work with nature, respect the land, and share the harvest"
+    },
+    "wedding": {
+      "title": "Hmoob Xyoo Hnub",
+      "subtitle": "Kev Sib Hlub Nkawj",
+      "description": "Hmoob weddings are elaborate multi-day celebrations filled with meaningful rituals, symbolic exchanges, and community participation. The ceremony binds not just two individuals, but two families together.",
+      "traditions": [
+        "Nqee hnyuj - negotiation of bride price",
+        "Bride's departure ceremony from her family home",
+        "Xyoo hnub feast with traditional foods and music",
+        "Exchange of gifts and blessings between families",
+        "The groom's journey to bring the bride to his home"
+      ],
+      "symbolism": "Weddings symbolize the union of lineages and the continuation of Hmoob traditions"
+    },
+    "villageLife": {
+      "title": "Nroog Hmoob thiab Me Nyuam",
+      "subtitle": "Growing Up in Community",
+      "description": "Hmoob villages are close-knit communities where children grow up surrounded by extended family, learning traditions, language, and values through daily life and play.",
+      "activities": [
+        "Me nyuam playing traditional games in village squares",
+        "Learning traditional crafts and skills from elders",
+        "Helping with family chores and farming",
+        "Storytelling sessions that preserve oral history",
+        "Community celebrations and gatherings"
+      ],
+      "values": "Respect, community cooperation, and preservation of cultural identity"
+    }
+  },
+  "values": {
+    "title": "Hmoob Tsev Neeg",
+    "subtitle": "Principles That Guide Our Way of Life",
+    "items": [
+      {
+        "title": "Tsev Neeg First",
+        "description": "Family is the center of Hmoob society, with strong emphasis on respecting elders and caring for children"
+      },
+      {
+        "title": "Community Unity",
+        "description": "Collective well-being and mutual support are essential for community prosperity"
+      },
+      {
+        "title": "Cultural Preservation",
+        "description": "Passing down traditions, language, and customs to future generations"
+      },
+      {
+        "title": "Harmony with Nature",
+        "description": "Living sustainably and respecting the natural environment"
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Hmoob Lub Neej Photos",
+    "images": [
+      {
+        "alt": "Hmoob New Year celebration with traditional clothing"
+      },
+      {
+        "alt": "Traditional farming on terraced fields"
+      },
+      {
+        "alt": "Hmoob wedding ceremony"
+      },
+      {
+        "alt": "Children playing in village"
+      }
+    ]
+  },
+  "callToAction": {
+    "title": "Experience Hmoob Culture",
+    "description": "Join us in preserving and celebrating the rich heritage of Hmoob people around the world.",
+    "button": "Join Our Community",
+    "secondaryButton": "Explore More"
+  },
+  "meta": {
+    "description": "Discover the rich traditions and cultural heritage of Hmoob people, including New Year celebrations, traditional farming, wedding ceremonies, and village life."
+  }
+}

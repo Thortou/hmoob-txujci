@@ -1,0 +1,119 @@
+{
+  "seo": {
+    "title": "About Hmong Culture - Learn Next | Discover Rich Heritage & Traditions",
+    "description": "Discover the rich traditions and cultural heritage of Hmong people, including New Year celebrations (Noj Peb Caug), traditional farming, wedding ceremonies, and village life. Explore Hmong customs and values.",
+    "keywords": "Hmong culture, Hmong New Year, Noj Peb Caug, Hmong traditions, Hmong wedding, traditional farming, Hmong village life, Hmong heritage, Hmong customs, Hmong values",
+    "og": {
+      "title": "About Hmong Culture - Discover Rich Heritage & Traditions",
+      "description": "Explore Hmong traditions, New Year celebrations, wedding ceremonies, farming practices, and village life. Learn about the rich cultural heritage of Hmong people.",
+      "image": "/qeej5.png"
+    }
+  },
+  "title": "About Hmong Culture",
+  "subtitle": "Discover the Rich Heritage of the Hmong People",
+  "hero": {
+    "description": "Explore the vibrant traditions, deep-rooted customs, and timeless wisdom of Hmong communities around the world. From ancient ceremonies to daily village life, experience the beauty of a culture that has preserved its identity across generations."
+  },
+  "sections": {
+    "newYear": {
+      "title": "Hmong New Year - Noj Peb Caug",
+      "subtitle": "A Celebration of Renewal and Unity",
+      "description": "The Hmong New Year, celebrated annually, is the most significant cultural festival marking the end of the harvest season and the beginning of a new year. It is a time for honor, spirit, and community bonding.",
+      "traditions": [
+        "Traditional ball tossing (pov pob) between young men and women",
+        "Colorful traditional clothing with intricate embroidery",
+        "Music, dance, and cultural performances",
+        "Feasting with family and community",
+        "Honoring ancestors and seeking blessings for the new year"
+      ],
+      "duration": "Celebrated for 3-7 days, typically in November or December"
+    },
+    "farming": {
+      "title": "Traditional Farming & Agriculture",
+      "subtitle": "Living in Harmony with the Land",
+      "description": "Agriculture has been the cornerstone of Hmong life for centuries. Hmong farmers have developed sustainable farming practices adapted to mountainous regions, growing rice, corn, vegetables, and herbs.",
+      "practices": [
+        "Rice cultivation on terraced mountain fields",
+        "Sustainable farming techniques passed down through generations",
+        "Growing traditional vegetables and medicinal herbs",
+        "Animal husbandry including poultry, pigs, and water buffalo",
+        "Preserving seeds for future planting seasons"
+      ],
+      "philosophy": "Work with nature, respect the land, and share the harvest"
+    },
+    "wedding": {
+      "title": "Wedding Ceremonies",
+      "subtitle": "Sacred Union of Two Souls",
+      "description": "Hmong weddings are elaborate multi-day celebrations filled with meaningful rituals, symbolic exchanges, and community participation. The ceremony binds not just two individuals, but two families together.",
+      "traditions": [
+        "Negotiation of bride price (nqee hnyuj)",
+        "Bride's departure ceremony from her family home",
+        "Wedding feast with traditional foods and music",
+        "Exchange of gifts and blessings between families",
+        "The groom's journey to bring the bride to his home"
+      ],
+      "symbolism": "Weddings symbolize the union of lineages and the continuation of Hmong traditions"
+    },
+    "villageLife": {
+      "title": "Village Life & Childhood",
+      "subtitle": "Growing Up in Community",
+      "description": "Hmong villages are close-knit communities where children grow up surrounded by extended family, learning traditions, language, and values through daily life and play.",
+      "activities": [
+        "Children playing traditional games in village squares",
+        "Learning traditional crafts and skills from elders",
+        "Helping with family chores and farming",
+        "Storytelling sessions that preserve oral history",
+        "Community celebrations and gatherings"
+      ],
+      "values": "Respect, community cooperation, and preservation of cultural identity"
+    }
+  },
+  "values": {
+    "title": "Core Hmong Values",
+    "subtitle": "Principles That Guide Our Way of Life",
+    "items": [
+      {
+        "title": "Family First",
+        "description": "Family is the center of Hmong society, with strong emphasis on respecting elders and caring for children"
+      },
+      {
+        "title": "Community Unity",
+        "description": "Collective well-being and mutual support are essential for community prosperity"
+      },
+      {
+        "title": "Cultural Preservation",
+        "description": "Passing down traditions, language, and customs to future generations"
+      },
+      {
+        "title": "Harmony with Nature",
+        "description": "Living sustainably and respecting the natural environment"
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Glimpses of Hmong Life",
+    "images": [
+      {
+        "alt": "Hmong New Year celebration with traditional clothing"
+      },
+      {
+        "alt": "Traditional farming on terraced fields"
+      },
+      {
+        "alt": "Hmong wedding ceremony"
+      },
+      {
+        "alt": "Children playing in village"
+      }
+    ]
+  },
+  "callToAction": {
+    "title": "Experience Hmong Culture",
+    "description": "Join us in preserving and celebrating the rich heritage of Hmong people around the world.",
+    "button": "Join Our Community",
+    "secondaryButton": "Explore More"
+  },
+  "meta": {
+    "description": "Discover the rich traditions and cultural heritage of Hmong people, including New Year celebrations, traditional farming, wedding ceremonies, and village life."
+  }
+}

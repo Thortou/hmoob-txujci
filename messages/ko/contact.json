@@ -1,0 +1,33 @@
+{
+  "title": "문의하기",
+  "description": "궁금한 점이 있으신가요? 연락을 주시면 최대한 빨리 답변해 드리겠습니다.",
+  "contactInfo": {
+    "title": "문의하기",
+    "phone": "전화",
+    "email": "이메일",
+    "facebook": "페이스북",
+    "address": "주소"
+  },
+  "form": {
+    "title": "메시지 보내기",
+    "name": "이름",
+    "email": "이메일",
+    "subject": "제목",
+    "message": "메시지",
+    "placeholders": {
+      "name": "이름",
+      "email": "your.email@example.com",
+      "subject": "무엇에 대해 문의하시나요?",
+      "message": "메시지를 입력하세요..."
+    },
+    "submitButton": "메시지 보내기",
+    "successMessage": "메시지를 보내주셔서 감사합니다! 곧 연락드리겠습니다."
+  },
+  "location": {
+    "title": "위치",
+    "description": "아래 지도에서 저희를 찾아보세요"
+  },
+  "buttons": {
+    "backToHome": "홈으로 돌아가기"
+  }
+}

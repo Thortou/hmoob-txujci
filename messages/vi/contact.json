@@ -1,0 +1,33 @@
+{
+  "title": "Liên hệ",
+  "description": "Có câu hỏi? Chúng tôi rất muốn nghe từ bạn. Gửi cho chúng tôi một tin nhắn và chúng tôi sẽ trả lời sớm nhất có thể.",
+  "contactInfo": {
+    "title": "Liên hệ",
+    "phone": "Điện thoại",
+    "email": "Email",
+    "facebook": "Facebook",
+    "address": "Địa chỉ"
+  },
+  "form": {
+    "title": "Gửi tin nhắn cho chúng tôi",
+    "name": "Tên",
+    "email": "Email",
+    "subject": "Chủ đề",
+    "message": "Tin nhắn",
+    "placeholders": {
+      "name": "Tên của bạn",
+      "email": "your.email@example.com",
+      "subject": "Đây là về cái gì?",
+      "message": "Tin nhắn của bạn..."
+    },
+    "submitButton": "Gửi tin nhắn",
+    "successMessage": "Cảm ơn bạn đã gửi tin nhắn! Chúng tôi sẽ sớm trả lời."
+  },
+  "location": {
+    "title": "Vị trí của chúng tôi",
+    "description": "Tìm chúng tôi trên bản đồ bên dưới"
+  },
+  "buttons": {
+    "backToHome": "Về trang chủ"
+  }
+}

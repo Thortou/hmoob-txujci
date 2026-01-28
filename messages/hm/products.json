@@ -1,0 +1,42 @@
+{
+  "seo": {
+    "title": "Hmong Clothing Shop - Buy Traditional Khaub Ncaws Hmoob | Learn Next",
+    "description": "Shop authentic traditional Hmong clothing (Khaub ncaws hmoob). Browse our collection of white, green, and multicolor Hmong dresses in various sizes. Handmade with cultural craftsmanship.",
+    "keywords": "Hmong clothing, Khaub ncaws hmoob, traditional Hmong dress, Hmong fashion, ethnic clothing, Hmong costume, handmade Hmong clothes, Hmong traditional wear",
+    "og": {
+      "title": "Hmong Clothing Shop - Traditional Khaub Ncaws Hmoob",
+      "description": "Discover authentic Hmong traditional clothing. Beautiful white, green, and multicolor Hmong dresses handcrafted with cultural heritage.",
+      "image": "/qeej5.png"
+    }
+  },
+  "title": "Traditional Hmong Clothing",
+  "subtitle": "Discover our collection of authentic, handcrafted Hmong traditional clothing. Each piece celebrates our rich cultural heritage with intricate designs and vibrant colors.",
+  "productCount": "products available",
+  "callToAction": {
+    "title": "Need Help Finding the Perfect Size?",
+    "description": "Contact us for custom sizing, special orders, or any questions about our Hmong clothing collection.",
+    "contactButton": "Contact Us",
+    "aboutButton": "Learn More About Hmong Culture"
+  },
+  "detail": {
+    "breadcrumb": {
+      "home": "Home",
+      "products": "Products"
+    },
+    "description": "This beautiful traditional Hmong clothing features intricate embroidery and handcrafted details passed down through generations. Made with premium materials and authentic techniques, each piece represents the rich cultural heritage of the Hmong people. Perfect for cultural events, ceremonies, or displaying your appreciation for Hmong traditions.",
+    "size": "Size",
+    "quantity": "Quantity",
+    "addToCart": "Add to Cart",
+    "buyNow": "Buy Now",
+    "addToCartSuccess": "Added to cart:",
+    "buyNowSuccess": "Proceeding to checkout...",
+    "relatedProducts": "More from this Collection",
+    "backToProducts": "Back to All Products",
+    "features": {
+      "traditional": "Traditional Hmong embroidery patterns",
+      "handmade": "Handcrafted by skilled artisans",
+      "premium": "Premium quality materials",
+      "authentic": "Authentic Hmong cultural design"
+    }
+  }
+}

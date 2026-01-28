@@ -1,0 +1,10 @@
+{
+  "title": "LEARN NEXT",
+  "tagline": "モダンなWebアプリケーションを構築",
+  "copyright": "© {year} Learn Next. All rights reserved.",
+  "nav": {
+    "home": "ホーム",
+    "about": "について",
+    "contact": "お問い合わせ"
+  }
+}

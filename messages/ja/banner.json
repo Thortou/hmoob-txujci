@@ -1,0 +1,38 @@
+{
+  "slides": [
+    {
+      "id": 1,
+      "title": "プラットフォームへようこそ",
+      "description": "最先端のソリューションで、素晴らしい機能と可能性を発見してください。",
+      "cta": {
+        "label": "始める",
+        "link": "/about"
+      }
+    },
+    {
+      "id": 2,
+      "title": "素晴らしいものを作る",
+      "description": "すでにワークフローを変革している何千人ものユーザーに参加しましょう。",
+      "cta": {
+        "label": "詳しく見る",
+        "link": "/contact"
+      }
+    },
+    {
+      "id": 3,
+      "title": "モダンなソリューション",
+      "description": "革新的なツールで生産性の未来を体験してください。",
+      "cta": {
+        "label": "今すぐ探索",
+        "link": "/about"
+      }
+    }
+  ],
+  "navigation": {
+    "prevSlide": "前のスライド",
+    "nextSlide": "次のスライド",
+    "firstSlide": "これは最初のスライドです",
+    "lastSlide": "これは最後のスライドです",
+    "paginationBullet": "スライド{{index}}に移動"
+  }
+}

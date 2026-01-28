@@ -1,0 +1,10 @@
+{
+  "title": "LEARN NEXT",
+  "tagline": "构建现代 Web 应用程序",
+  "copyright": "© {year} Learn Next. 版权所有。",
+  "nav": {
+    "home": "首页",
+    "about": "关于",
+    "contact": "联系"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "title": "Welcome to Learn Next",
+  "subtitle": "Build modern web applications with Next.js, React, and Tailwind CSS",
+  "seo": {
+    "title": "Learn Next - Build Modern Web Applications with Hmong Culture",
+    "description": "Discover the power of Next.js with Hmong cultural integration. Learn about Hmong traditions, New Year celebrations, farming, weddings, and village life. Build modern web apps while preserving cultural heritage.",
+    "keywords": "Next.js, Hmong culture, Hmong New Year, web development, React, Tailwind CSS, Hmong traditions, Hmong wedding, Hmong farming, Noj Peb Caug",
+    "og": {
+      "title": "Learn Next - Hmong Culture & Modern Web Development",
+      "description": "Explore Hmong culture and learn modern web development with Next.js. Features Hmong New Year celebrations, traditional farming, wedding ceremonies, and village life.",
+      "image": "/qeej5.png"
+    }
+  },
+  "features": {
+    "fast": {
+      "title": "Fast",
+      "description": "Lightning-fast performance with server-side rendering"
+    },
+    "modern": {
+      "title": "Modern",
+      "description": "Built with the latest React features and best practices"
+    },
+    "easy": {
+      "title": "Easy",
+      "description": "Simple file-based routing and intuitive API"
+    }
+  },
+  "buttons": {
+    "learnMore": "Learn More",
+    "getInTouch": "Get in Touch",
+    "backToHome": "Back to Home"
+  },
+  "education": {
+    "title": "New Learning",
+    "description": "Learning is the process of acquiring knowledge, skills, values, and perspectives from others. This information is extended through learning, teaching, and research.",
+    "objectives": {
+      "title": "Educational Objectives",
+      "item1": "To develop knowledge and skills",
+      "item2": "To create good people and intellectuals in society",
+      "item3": "Develop the economy and the country",
+      "item4": "Create equality in receiving opportunities"
+    },
+    "benefits": {
+      "title": "Benefits of Education",
+      "item1": "Develop analytical thinking",
+      "item2": "Create work opportunities",
+      "item3": "Improve quality of life, create an understanding and communicative society"
+    },
+    "ai": {
+      "title": "Approaches to Using AI (Artificial Intelligence)",
+      "description": "Creating machines or software that can think, learn, make decisions, and work like humans. Examples: ChatGPT, Siri, Google Assistant, YouTube recommendation systems, Facebook, TikTok",
+      "importanceTitle": "💡 Importance of AI:",
+      "importance1": "Set clear goals: For example, use AI to help write, translate, plan",
+      "importance2": "Provide specific commands: For example: 'Write a 500-word essay about education'",
+      "importance3": "Test and improve: Check the results and improve the commands",
+      "importance4": "Verify accuracy: Sometimes AI can be wrong"
+    }
+  }
+}

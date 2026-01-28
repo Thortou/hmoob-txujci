@@ -1,0 +1,38 @@
+{
+  "slides": [
+    {
+      "id": 1,
+      "title": "Zoo siab txais tos nkag rau peb platform",
+      "description": "Khom tau cov chaw muaj zoo thiab cov.observable yuav sum nrog peb cov qauv tshaj lij.",
+      "cta": {
+        "label": "Pib siv",
+        "link": "/about"
+      }
+    },
+    {
+      "id": 2,
+      "title": "Tsim yam loj tshaj",
+      "description": "Sib haum xws li kaum lub neej tsav tsheb uas hnov tau dabtsi tau kev hloov pauv lawm.",
+      "cta": {
+        "label": "Kawm ntxiv",
+        "link": "/contact"
+      }
+    },
+    {
+      "id": 3,
+      "title": "Qauv tam sim no",
+      "description": "Ntsib cov qauv kev pab cuam ntawm peb tom qab ntawd kev sib tw zam.",
+      "cta": {
+        "label": "Saib tam sim no",
+        "link": "/about"
+      }
+    }
+  ],
+  "navigation": {
+    "prevSlide": "Slide tom qab",
+    "nextSlide": "Slide tom ntej",
+    "firstSlide": "No yog slide thawj",
+    "lastSlide": "No yog slide saum",
+    "paginationBullet": "Mus rau slide {{index}}"
+  }
+}

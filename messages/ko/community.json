@@ -1,0 +1,85 @@
+{
+  "seo": {
+    "title": "커뮤니티 - Learn Next | 몽 문화 애호가와 연결 및 공유",
+    "description": "전 세계 몽 문화 애호가와 연결할 수 있는 활기찬 커뮤니티 플랫폼에 가입하세요. 경험을 공유하고, 인기 주제를 발견하며, 검증된 기여자와 소통하세요.",
+    "keywords": "커뮤니티 플랫폼, 몽 커뮤니티, 소셜 플랫폼, 몽 문화 공유, 인기 주제, 사용자 프로필, 검증된 기여자",
+    "og": {
+      "title": "커뮤니티 - 몽 문화 애호가와 연결 및 공유",
+      "description": "전 세계 1억 명 이상의 활성 사용자와 함께하세요. 게시물을 공유하고, 인기 주제를 발견하며, 몽 커뮤니티와 연결하세요.",
+      "image": "/qeej5.png"
+    }
+  },
+  "feed": {
+    "title": "커뮤니티 피드",
+    "createPost": "게시물 만들기",
+    "moreOptions": "추가 옵션",
+    "like": "좋아요",
+    "comment": "댓글",
+    "share": "공유",
+    "bookmark": "북마크",
+    "views": "조회",
+    "loadMore": "더 로드",
+    "empty": "아직 게시물이 없습니다. 첫 번째로 공유하세요!"
+  },
+  "trending": {
+    "title": "인기 주제",
+    "live": "라이브",
+    "lastUpdate": "마지막 업데이트: {time}",
+    "posts": "게시물",
+    "showAll": "모든 인기 주제 보기",
+    "empty": "아직 인기 주제가 없습니다"
+  },
+  "profile": {
+    "verified": "인증된 사용자",
+    "follow": "팔로우",
+    "message": "메시지",
+    "editProfile": "프로필 편집",
+    "joined": "{date}에 가입함",
+    "posts": "게시물",
+    "followers": "팔로워",
+    "following": "팔로잉",
+    "likes": "좋아요",
+    "level": "레벨",
+    "points": "포인트",
+    "nextLevel": "다음 레벨까지 {points} 포인트",
+    "badges": "배지"
+  },
+  "download": {
+    "title": "다운로드 센터",
+    "start": "시작",
+    "pause": "일시정지",
+    "resume": "재개",
+    "cancel": "취소",
+    "retry": "재시도",
+    "open": "열기",
+    "completed": "완료됨",
+    "total": "전체",
+    "downloading": "다운로드 중",
+    "clearCompleted": "완료된 항목 지우기",
+    "totalSpeed": "전체 속도:",
+    "filter": {
+      "all": "전체",
+      "downloading": "활성",
+      "completed": "완료됨",
+      "failed": "실패"
+    },
+    "empty": "아직 다운로드가 없습니다"
+  },
+  "notifications": {
+    "title": "알림",
+    "unread": "읽지 않음",
+    "markAsRead": "읽음으로 표시",
+    "markAllRead": "모두 읽음으로 표시",
+    "dismiss": "무시",
+    "empty": "알림 없음",
+    "viewAll": "모든 알림 보기"
+  },
+  "search": {
+    "placeholder": "사용자, 게시물, 주제 검색...",
+    "search": "검색",
+    "clear": "검색 지우기",
+    "recent": "최근 검색",
+    "noResults": "결과를 찾을 수 없음",
+    "seeAll": "모든 결과 보기"
+  }
+}

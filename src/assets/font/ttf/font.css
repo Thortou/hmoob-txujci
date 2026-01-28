@@ -1,0 +1,68 @@
+/**
+@FontFace
+ */
+
+/* BoonBan */
+@font-face {
+    font-family: BoonBaan;
+    src: url(./BoonBaan-Regular.ttf) format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: BoonBaan;
+    src: url(./BoonBaan-Bold.ttf) format("truetype");
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: BoonBaan;
+    src: url(./BoonBaan-Italic.ttf) format("truetype");
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: Notosan lao;
+    src: url(./NotoSansLao-Regular.ttf) format("truetype");
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: BoonBaan;
+    src: url(./BoonBaan-BoldItalic.ttf) format("truetype");
+    font-weight: 700;
+    font-style: italic;
+}
+
+/**
+
+/* NotoSans */
+@font-face {
+    font-family: "NotoSansLao";
+    src: url(./NotoSansLao-Regular.ttf) format("truetype");
+    font-style: normal;
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: "NotoSansLao";
+    src: url(./NotoSansLao-Medium.ttf) format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+.ant-popover-inner {
+  margin-right: 20px;
+  width: 260px !important;
+}
+.ant-popover-inner-content {
+  min-width: 200px;
+}
+
+/*  
+@EndFontFace
+*/

@@ -1,0 +1,85 @@
+{
+  "seo": {
+    "title": "コミュニティ - Learn Next | モン文化愛好家とつながり、共有する",
+    "description": "世界中のモン文化愛好家とつながる活気あるコミュニティプラットフォームに参加しましょう。経験を共有し、トレンドトピックを発見し、検証済みのコントリビューターと交流しましょう。",
+    "keywords": "コミュニティプラットフォーム, モン族コミュニティ, ソーシャルプラットフォーム, モン文化の共有, トレンドトピック, ユーザープロフィール, 検証済みコントリビューター",
+    "og": {
+      "title": "コミュニティ - モン文化愛好家とつながり、共有する",
+      "description": "世界中の1億人以上のアクティブユーザーと参加しましょう。投稿を共有し、トレンドトピックを発見し、モン族コミュニティとつながりましょう。",
+      "image": "/qeej5.png"
+    }
+  },
+  "feed": {
+    "title": "コミュニティフィード",
+    "createPost": "投稿を作成",
+    "moreOptions": "その他のオプション",
+    "like": "いいね",
+    "comment": "コメント",
+    "share": "共有",
+    "bookmark": "ブックマーク",
+    "views": "閲覧",
+    "loadMore": "もっと見る",
+    "empty": "まだ投稿がありません。最初に共有しましょう！"
+  },
+  "trending": {
+    "title": "トレンドトピック",
+    "live": "ライブ",
+    "lastUpdate": "最終更新: {time}",
+    "posts": "投稿",
+    "showAll": "すべてのトレンドトピックを見る",
+    "empty": "まだトレンドトピックがありません"
+  },
+  "profile": {
+    "verified": "認証済みユーザー",
+    "follow": "フォロー",
+    "message": "メッセージ",
+    "editProfile": "プロフィールを編集",
+    "joined": "{date}に参加",
+    "posts": "投稿",
+    "followers": "フォロワー",
+    "following": "フォロー中",
+    "likes": "いいね",
+    "level": "レベル",
+    "points": "ポイント",
+    "nextLevel": "次のレベルまで{points}ポイント",
+    "badges": "バッジ"
+  },
+  "download": {
+    "title": "ダウンロードセンター",
+    "start": "開始",
+    "pause": "一時停止",
+    "resume": "再開",
+    "cancel": "キャンセル",
+    "retry": "再試行",
+    "open": "開く",
+    "completed": "完了",
+    "total": "合計",
+    "downloading": "ダウンロード中",
+    "clearCompleted": "完了した項目をクリア",
+    "totalSpeed": "合計速度:",
+    "filter": {
+      "all": "すべて",
+      "downloading": "アクティブ",
+      "completed": "完了",
+      "failed": "失敗"
+    },
+    "empty": "まだダウンロードがありません"
+  },
+  "notifications": {
+    "title": "通知",
+    "unread": "未読",
+    "markAsRead": "既読にする",
+    "markAllRead": "すべて既読にする",
+    "dismiss": "無視",
+    "empty": "通知はありません",
+    "viewAll": "すべての通知を見る"
+  },
+  "search": {
+    "placeholder": "ユーザー、投稿、トピックを検索...",
+    "search": "検索",
+    "clear": "検索をクリア",
+    "recent": "最近の検索",
+    "noResults": "結果が見つかりません",
+    "seeAll": "すべての結果を見る"
+  }
+}

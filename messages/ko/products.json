@@ -1,0 +1,42 @@
+{
+  "seo": {
+    "title": "Hmong 의류 매장 - 전통 Khaub Ncaws Hmoob 구매 | Learn Next",
+    "description": "정품 전통 몽족 의류(Khaub ncaws hmoob)를 쇼핑하세요. 다양한 사이즈의 흰색, 녹색, 다양한 색상의 몽족 드레스 컬렉션을 둘러보세요. 문화적 장인 정신으로 수제되었습니다.",
+    "keywords": "몽족 의류, Khaub ncaws hmoob, 전통 몽족 드레스, 몽족 패션, 민족 의류, 몽족 의상, 수제 몽족 옷, 전통 몽족 의류",
+    "og": {
+      "title": "Hmong 의류 매장 - 전통 Khaub Ncaws Hmoob",
+      "description": "정품 몽족 전통 의류를 발견하세요. 문화 유산으로 수제된 아름다운 흰색, 녹색, 다양한 색상의 몽족 드레스.",
+      "image": "/qeej5.png"
+    }
+  },
+  "title": "전통 몽족 의류",
+  "subtitle": "정품이자 수제인 몽족 전통 의류 컬렉션을 발견하세요. 각 제품은 정교한 디자인과 생생한 색상으로 우리의 풍부한 문화 유산을 기념합니다.",
+  "productCount": "제품 사용 가능",
+  "callToAction": {
+    "title": "완벽한 사이즈를 찾는 데 도움이 필요하신가요?",
+    "description": "맞춤 사이즈, 특별 주문 또는 몽족 의류 컬렉션에 대한 질문이 있으시면 문의하세요.",
+    "contactButton": "문의하기",
+    "aboutButton": "몽족 문화에 대해 더 알아보기"
+  },
+  "detail": {
+    "breadcrumb": {
+      "home": "홈",
+      "products": "제품"
+    },
+    "description": "이 아름다운 전통 몽족 의류는 대대로 전해진 정교한 자수와 수제 디테일이 특징입니다. 프리미엄 소재와 정통 기술로 만들어져 각 제품은 몽족 사람들의 풍부한 문화 유산을 대표합니다. 문화 행사, 의식 또는 몽족 전통에 대한 감사를 표시하기에 완벽합니다.",
+    "size": "사이즈",
+    "quantity": "수량",
+    "addToCart": "장바구니에 추가",
+    "buyNow": "지금 구매",
+    "addToCartSuccess": "장바구니에 추가됨:",
+    "buyNowSuccess": "결제로 이동 중...",
+    "relatedProducts": "이 컬렉션의 더 많은 제품",
+    "backToProducts": "모든 제품으로 돌아가기",
+    "features": {
+      "traditional": "전통 몽족 자수 패턴",
+      "handmade": "숙련된 장인에 의해 수제",
+      "premium": "프리미엄 품질 소재",
+      "authentic": "정통 몽족 문화 디자인"
+    }
+  }
+}

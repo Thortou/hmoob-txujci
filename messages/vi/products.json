@@ -1,0 +1,42 @@
+{
+  "seo": {
+    "title": "Cửa hàng Trang phục Hmong - Mua Trang phục Truyền thống Khaub Ncaws Hmoob | Learn Next",
+    "description": "Mua sắm trang phục Hmong truyền thống chính hãng (Khaub ncaws hmoob). Duyệt qua bộ sưu tập váy Hmong màu trắng, xanh lá cây và đa màu trong nhiều kích thước khác nhau. Được làm bằng tay với nghề thủ công văn hóa.",
+    "keywords": "trang phục Hmong, Khaub ncaws hmoob, váy Hmong truyền thống, thời trang Hmong, trang phục dân tộc, trang phục Hmong, quần áo Hmong làm bằng tay, trang phục Hmong truyền thống",
+    "og": {
+      "title": "Cửa hàng Trang phục Hmong - Trang phục Truyền thống Khaub Ncaws Hmoob",
+      "description": "Khám phá trang phục Hmong truyền thống chính hãng. Những chiếc váy Hmong trắng, xanh lá cây và đa màu đẹp được làm bằng tay với di sản văn hóa.",
+      "image": "/qeej5.png"
+    }
+  },
+  "title": "Trang phục Hmong Truyền thống",
+  "subtitle": "Khám phá bộ sưu tập trang phục Hmong truyền thống chính hãng và làm bằng tay của chúng tôi. Mỗi món ăn kỷ niệm di sản văn hóa phong phú của chúng tôi với các thiết kế phức tạp và màu sắc rực rỡ.",
+  "productCount": "sản phẩm có sẵn",
+  "callToAction": {
+    "title": "Cần Trợ giúp Tìm Kích thước Hoàn hảo?",
+    "description": "Liên hệ với chúng tôi để kích thước tùy chỉnh, đơn đặt hàng đặc biệt hoặc bất kỳ câu hỏi nào về bộ sưu tập trang phục Hmong của chúng tôi.",
+    "contactButton": "Liên hệ",
+    "aboutButton": "Tìm hiểu Thêm về Văn hóa Hmong"
+  },
+  "detail": {
+    "breadcrumb": {
+      "home": "Trang chủ",
+      "products": "Sản phẩm"
+    },
+    "description": "Trang phục Hmong truyền thống đẹp này có thêu phức tạp và chi tiết làm bằng tay được truyền lại qua nhiều thế hệ. Được làm bằng vật liệu cao cấp và kỹ thuật chính hãng, mỗi mảnh đại diện cho di sản văn hóa phong phú của người Hmong. Hoàn hảo cho các sự kiện văn hóa, lễ kỷ niệm hoặc thể hiện sự trân trọng đối với truyền thống Hmong.",
+    "size": "Kích thước",
+    "quantity": "Số lượng",
+    "addToCart": "Thêm vào Giỏ",
+    "buyNow": "Mua Ngay",
+    "addToCartSuccess": "Đã thêm vào giỏ:",
+    "buyNowSuccess": "Đang tiến hành thanh toán...",
+    "relatedProducts": "Thêm từ Bộ sưu tập này",
+    "backToProducts": "Quay lại Tất cả Sản phẩm",
+    "features": {
+      "traditional": "Mô hình thêu Hmong truyền thống",
+      "handmade": "Được làm bằng tay bởi các nghệ nhân lành nghề",
+      "premium": "Vật liệu chất lượng cao cấp",
+      "authentic": "Thiết kế văn hóa Hmong chính hãng"
+    }
+  }
+}

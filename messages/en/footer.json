@@ -1,0 +1,10 @@
+{
+  "title": "LEARN NEXT",
+  "tagline": "Building modern web applications",
+  "copyright": "© {year} Learn Next. All rights reserved.",
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "contact": "Contact"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "title": "Learn Next에 오신 것을 환영합니다",
+  "subtitle": "Next.js, React, Tailwind CSS로 현대적인 웹 애플리케이션 구축",
+  "features": {
+    "fast": {
+      "title": "빠름",
+      "description": "서버 사이드 렌더링으로 번개처럼 빠른 성능"
+    },
+    "modern": {
+      "title": "현대적",
+      "description": "최신 React 기능과 모범 사례로 구축"
+    },
+    "easy": {
+      "title": "쉬움",
+      "description": "간단한 파일 기반 라우팅과 직관적인 API"
+    }
+  },
+  "buttons": {
+    "learnMore": "자세히 보기",
+    "getInTouch": "문의하기",
+    "backToHome": "홈으로 돌아가기"
+  },
+  "education": {
+    "title": "새로운 학습",
+    "description": "학습은 타인으로부터 지식, 기술, 가치, 관점을 얻는 과정입니다. 이 정보는 학습, 교육, 연구를 통해 확장됩니다.",
+    "objectives": {
+      "title": "교육 목표",
+      "item1": "지식과 기술 개발",
+      "item2": "사회의 좋은 사람과 지성인 양성",
+      "item3": "경제와 국가 발전",
+      "item4": "기회의 평등 창출"
+    },
+    "benefits": {
+      "title": "교육의 혜택",
+      "item1": "분석적 사고 발달",
+      "item2": "일자리 창출",
+      "item3": "삶의 질 향상, 이해하고 소통하는 사회 생성"
+    },
+    "ai": {
+      "title": "AI(인공지능) 활용 방법",
+      "description": "인간처럼 생각하고, 학습하고, 결정하고, 일할 수 있는 기계나 소프트웨어를 만드는 것. 예: ChatGPT, Siri, Google Assistant, YouTube 추천 시스템, Facebook, TikTok",
+      "importanceTitle": "💡 AI의 중요성:",
+      "importance1": "명확한 목표 설정: 예를 들어 작문, 번역, 계획에 AI 활용",
+      "importance2": "구체적인 명령 제공: 예: '교육에 관한 500단어 에세이 쓰기'",
+      "importance3": "테스트 및 개선: 결과를 확인하고 명령 개선",
+      "importance4": "정확성 확인: 때로는 AI가 틀릴 수 있음"
+    }
+  }
+}

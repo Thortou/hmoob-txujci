@@ -1,0 +1,10 @@
+{
+  "title": "LEARN NEXT",
+  "tagline": "Xây dựng ứng dụng web hiện đại",
+  "copyright": "© {year} Learn Next. Đã đăng ký bản quyền.",
+  "nav": {
+    "home": "Trang chủ",
+    "about": "Giới thiệu",
+    "contact": "Liên hệ"
+  }
+}

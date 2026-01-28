@@ -1,0 +1,85 @@
+{
+  "seo": {
+    "title": "Community - Learn Next | Pub Rov Nrog Txawj Hmong Tebchaws",
+    "description": "Join our vibrant community platform to connect with Hmong culture enthusiasts worldwide. Share experiences, discover trending topics, and engage with verified contributors.",
+    "keywords": "community platform, Hmong community, social platform, Hmong culture sharing, trending topics, user profiles, verified contributors",
+    "og": {
+      "title": "Community - Connect & Share with Hmong Culture Enthusiasts",
+      "description": "Join 100M+ active users worldwide. Share posts, discover trending topics, and connect with the Hmong community.",
+      "image": "/qeej5.png"
+    }
+  },
+  "feed": {
+    "title": "Community Feed",
+    "createPost": "Create Post",
+    "moreOptions": "More options",
+    "like": "Like",
+    "comment": "Comment",
+    "share": "Share",
+    "bookmark": "Bookmark",
+    "views": "views",
+    "loadMore": "Load More",
+    "empty": "No posts yet. Be the first to share!"
+  },
+  "trending": {
+    "title": "Trending Topics",
+    "live": "Live",
+    "lastUpdate": "Last update: {time}",
+    "posts": "posts",
+    "showAll": "See all trending topics",
+    "empty": "No trending topics yet"
+  },
+  "profile": {
+    "verified": "Verified user",
+    "follow": "Follow",
+    "message": "Message",
+    "editProfile": "Edit Profile",
+    "joined": "Joined {date}",
+    "posts": "Posts",
+    "followers": "Followers",
+    "following": "Following",
+    "likes": "Likes",
+    "level": "Level",
+    "points": "points",
+    "nextLevel": "{points} points to next level",
+    "badges": "Badges"
+  },
+  "download": {
+    "title": "Download Center",
+    "start": "Start",
+    "pause": "Pause",
+    "resume": "Resume",
+    "cancel": "Cancel",
+    "retry": "Retry",
+    "open": "Open",
+    "completed": "Completed",
+    "total": "Total",
+    "downloading": "Downloading",
+    "clearCompleted": "Clear completed",
+    "totalSpeed": "Total speed:",
+    "filter": {
+      "all": "All",
+      "downloading": "Active",
+      "completed": "Done",
+      "failed": "Failed"
+    },
+    "empty": "No downloads yet"
+  },
+  "notifications": {
+    "title": "Notifications",
+    "unread": "unread",
+    "markAsRead": "Mark as read",
+    "markAllRead": "Mark all as read",
+    "dismiss": "Dismiss",
+    "empty": "No notifications",
+    "viewAll": "View all notifications"
+  },
+  "search": {
+    "placeholder": "Search users, posts, topics...",
+    "search": "Search",
+    "clear": "Clear search",
+    "recent": "Recent searches",
+    "noResults": "No results found",
+    "seeAll": "See all results"
+  }
+}

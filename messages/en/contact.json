@@ -1,0 +1,46 @@
+{
+  "seo": {
+    "title": "Contact Us - Learn Next | Get in Touch",
+    "description": "Have questions about Hmong culture or our platform? Get in touch with us. We'd love to hear from you and will respond as soon as possible.",
+    "keywords": "contact, get in touch, support, Hmong culture inquiry, customer service, feedback",
+    "og": {
+      "title": "Contact Us - Get in Touch",
+      "description": "Have questions? We'd love to hear from you. Send us a message and we'll respond as soon as possible.",
+      "image": "/qeej5.png"
+    }
+  },
+  "title": "Contact Us",
+  "description": "Have questions? We'd love to hear from you. Send us a message and we'll respond as soon as possible.",
+  "contactInfo": {
+    "title": "Get In Touch",
+    "phone": "Phone",
+    "email": "Email",
+    "facebook": "Facebook",
+    "address": "Address"
+  },
+  "form": {
+    "title": "Send Us a Message",
+    "name": "Name",
+    "email": "Email",
+    "subject": "Subject",
+    "message": "Message",
+    "placeholders": {
+      "name": "Your name",
+      "email": "your.email@example.com",
+      "subject": "What is this about?",
+      "message": "Your message..."
+    },
+    "validation": {
+      "email": "Please enter a valid email address"
+    },
+    "submitButton": "Send Message",
+    "successMessage": "Thank you for your message! We'll get back to you soon."
+  },
+  "location": {
+    "title": "Our Location",
+    "description": "Find us on the map below"
+  },
+  "buttons": {
+    "backToHome": "Back to Home"
+  }
+}

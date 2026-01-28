@@ -1,8 +1,21 @@
-@import "tailwindcss";
+@import "./tailwind.css";
 
 :root {
   --background: #ffffff;
   --foreground: #171717;
+}
+
+/* @font-face {
+  font-family: 'NotoSansLao';
+  src: url('../assets/font/ttf/font.css') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+} */
+@font-face {
+  font-family: 'Laos_Patuxai';
+  src: url('../assets/font/Lao_Patuxai3/LaosPatuxai.css') format('truetype');
+  font-weight: 400;
+  font-style: normal;
 }
 
 @theme inline {

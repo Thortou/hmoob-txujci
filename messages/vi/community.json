@@ -1,0 +1,85 @@
+{
+  "seo": {
+    "title": "Cộng đồng - Learn Next | Kết nối & Chia sẻ với Những người yêu thích Văn hóa Hmong",
+    "description": "Tham gia nền tảng cộng đồng sôi động để kết nối với những người yêu thích văn hóa Hmong trên toàn thế giới. Chia sẻ trải nghiệm, khám phá các xu hướng và tham gia với những người đóng góp đã được xác minh.",
+    "keywords": "nền tảng cộng đồng, cộng đồng Hmong, nền tảng xã hội, chia sẻ văn hóa Hmong, chủ đề xu hướng, hồ sơ người dùng, người đóng góp đã xác minh",
+    "og": {
+      "title": "Cộng đồng - Kết nối & Chia sẻ với Những người yêu thích Văn hóa Hmong",
+      "description": "Tham gia với hơn 100 triệu người dùng hoạt động trên toàn thế giới. Chia sẻ bài viết, khám phá các chủ đề xu hướng và kết nối với cộng đồng Hmong.",
+      "image": "/qeej5.png"
+    }
+  },
+  "feed": {
+    "title": "Bảng tin Cộng đồng",
+    "createPost": "Tạo bài viết",
+    "moreOptions": "Thêm tùy chọn",
+    "like": "Thích",
+    "comment": "Bình luận",
+    "share": "Chia sẻ",
+    "bookmark": "Đánh dấu",
+    "views": "lượt xem",
+    "loadMore": "Tải thêm",
+    "empty": "Chưa có bài viết nào. Hãy là người đầu tiên chia sẻ!"
+  },
+  "trending": {
+    "title": "Chủ đề Xu hướng",
+    "live": "Trực tiếp",
+    "lastUpdate": "Cập nhật lần cuối: {time}",
+    "posts": "bài viết",
+    "showAll": "Xem tất cả chủ đề xu hướng",
+    "empty": "Chưa có chủ đề xu hướng nào"
+  },
+  "profile": {
+    "verified": "Người dùng đã xác minh",
+    "follow": "Theo dõi",
+    "message": "Tin nhắn",
+    "editProfile": "Chỉnh sửa Hồ sơ",
+    "joined": "Đã tham gia {date}",
+    "posts": "Bài viết",
+    "followers": "Người theo dõi",
+    "following": "Đang theo dõi",
+    "likes": "Lượt thích",
+    "level": "Cấp độ",
+    "points": "điểm",
+    "nextLevel": "{points} điểm để lên cấp độ tiếp theo",
+    "badges": "Huy hiệu"
+  },
+  "download": {
+    "title": "Trung tâm Tải xuống",
+    "start": "Bắt đầu",
+    "pause": "Tạm dừng",
+    "resume": "Tiếp tục",
+    "cancel": "Hủy",
+    "retry": "Thử lại",
+    "open": "Mở",
+    "completed": "Hoàn thành",
+    "total": "Tổng",
+    "downloading": "Đang tải xuống",
+    "clearCompleted": "Xóa đã hoàn thành",
+    "totalSpeed": "Tổng tốc độ:",
+    "filter": {
+      "all": "Tất cả",
+      "downloading": "Đang hoạt động",
+      "completed": "Hoàn thành",
+      "failed": "Thất bại"
+    },
+    "empty": "Chưa có bản tải xuống nào"
+  },
+  "notifications": {
+    "title": "Thông báo",
+    "unread": "chưa đọc",
+    "markAsRead": "Đánh dấu đã đọc",
+    "markAllRead": "Đánh dấu tất cả đã đọc",
+    "dismiss": "Bỏ qua",
+    "empty": "Không có thông báo",
+    "viewAll": "Xem tất cả thông báo"
+  },
+  "search": {
+    "placeholder": "Tìm kiếm người dùng, bài viết, chủ đề...",
+    "search": "Tìm kiếm",
+    "clear": "Xóa tìm kiếm",
+    "recent": "Tìm kiếm gần đây",
+    "noResults": "Không tìm thấy kết quả",
+    "seeAll": "Xem tất cả kết quả"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "title": "LEARN NEXT",
+  "tagline": "สร้างเว็บแอปพลิเคชันทันสมัย",
+  "copyright": "© {year} Learn Next. สงวนลิขสิทธิ์",
+  "nav": {
+    "home": "หน้าแรก",
+    "about": "เกี่ยวกับ",
+    "contact": "ติดต่อ"
+  }
+}

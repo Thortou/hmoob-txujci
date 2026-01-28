@@ -1,0 +1,33 @@
+{
+  "title": "Mus Nrog",
+  "description": "Pom cov lus teb? peb xav paub txog koj. Hnov koj ib lus li peb yuav tab tom hnov dua",
+  "contactInfo": {
+    "title": "Mus Nrog",
+    "phone": "Zauv xov tooj",
+    "email": "Email",
+    "facebook": "Facebook",
+    "address": "Chaw"
+  },
+  "form": {
+    "title": "Xa Hnov Peb Lus",
+    "name": "Npe",
+    "email": "Email",
+    "subject": "Lus Saum",
+    "message": "Lus",
+    "placeholders": {
+      "name": "Koj npe",
+      "email": "your.email@example.com",
+      "subject": "Yog dab tsi?",
+      "message": "Koj lus..."
+    },
+    "submitButton": "Xa Lus",
+    "successMessage": "Ua tsaug rau koj lus! peb yuav rov qab mas."
+  },
+  "location": {
+    "title": "Peb Chaw",
+    "description": "Nrhiav peb hauv daim phab ntsa"
+  },
+  "buttons": {
+    "backToHome": "Rov Nrooj"
+  }
+}

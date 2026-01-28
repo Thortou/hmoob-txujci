@@ -1,0 +1,49 @@
+{
+  "title": "Chào mừng đến với Learn Next",
+  "subtitle": "Xây dựng ứng dụng web hiện đại với Next.js, React và Tailwind CSS",
+  "features": {
+    "fast": {
+      "title": "Nhanh",
+      "description": "Hiệu suất cực nhanh với server-side rendering"
+    },
+    "modern": {
+      "title": "Hiện đại",
+      "description": "Được xây dựng với các tính năng React mới nhất và best practices"
+    },
+    "easy": {
+      "title": "Dễ dàng",
+      "description": "Định tuyến dựa trên tệp đơn giản và API trực quan"
+    }
+  },
+  "buttons": {
+    "learnMore": "Tìm hiểu thêm",
+    "getInTouch": "Liên hệ",
+    "backToHome": "Về trang chủ"
+  },
+  "education": {
+    "title": "Học Mới",
+    "description": "Học tập là quá trình tiếp thu kiến thức, kỹ năng, giá trị và quan điểm từ người khác. Thông tin này được mở rộng thông qua việc học, dạy và nghiên cứu.",
+    "objectives": {
+      "title": "Mục tiêu giáo dục",
+      "item1": "Phát triển kiến thức và kỹ năng",
+      "item2": "Tạo ra người tốt và trí thức trong xã hội",
+      "item3": "Phát triển kinh tế và đất nước",
+      "item4": "Tạo sự bình đẳng trong cơ hội"
+    },
+    "benefits": {
+      "title": "Lợi ích của giáo dục",
+      "item1": "Phát triển tư duy phân tích",
+      "item2": "Tạo cơ hội việc làm",
+      "item3": "Cải thiện chất lượng cuộc sống, tạo xã hội hiểu biết và giao tiếp"
+    },
+    "ai": {
+      "title": "Cách Sử Dụng AI (Trí Tuệ Nhân Tạo)",
+      "description": "Tạo ra máy móc hoặc phần mềm có thể suy nghĩ, học hỏi, đưa ra quyết định và làm việc như con người. Ví dụ: ChatGPT, Siri, Google Assistant, hệ thống gợi ý YouTube, Facebook, TikTok",
+      "importanceTitle": "💡 Tầm Quan Trọng Của AI:",
+      "importance1": "Đặt mục tiêu rõ ràng: Ví dụ, sử dụng AI để viết, dịch, lập kế hoạch",
+      "importance2": "Cung cấp lệnh cụ thể: Ví dụ: 'Viết bài 500 từ về giáo dục'",
+      "importance3": "Kiểm tra và cải thiện: Xem kết quả và cải thiện lệnh",
+      "importance4": "Kiểm tra độ chính xác: Đôi khi AI có thể sai"
+    }
+  }
+}

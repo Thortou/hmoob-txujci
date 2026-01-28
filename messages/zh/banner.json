@@ -1,0 +1,38 @@
+{
+  "slides": [
+    {
+      "id": 1,
+      "title": "欢迎来到我们的平台",
+      "description": "通过我们尖端的解决方案，发现令人惊叹的功能和可能性。",
+      "cta": {
+        "label": "开始使用",
+        "link": "/about"
+      }
+    },
+    {
+      "id": 2,
+      "title": "构建伟大的事物",
+      "description": "加入已经改变工作流程的数千名用户的行列。",
+      "cta": {
+        "label": "了解更多",
+        "link": "/contact"
+      }
+    },
+    {
+      "id": 3,
+      "title": "现代解决方案",
+      "description": "通过我们创新的工具体验生产力未来。",
+      "cta": {
+        "label": "立即探索",
+        "link": "/about"
+      }
+    }
+  ],
+  "navigation": {
+    "prevSlide": "上一张幻灯片",
+    "nextSlide": "下一张幻灯片",
+    "firstSlide": "这是第一张幻灯片",
+    "lastSlide": "这是最后一张幻灯片",
+    "paginationBullet": "转到幻灯片 {{index}}"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "slides": [
+    {
+      "id": 1,
+      "title": "Chào mừng đến với nền tảng của chúng tôi",
+      "description": "Khám phá những tính năng và khả năng tuyệt vời với giải pháp tiên tiến của chúng tôi.",
+      "cta": {
+        "label": "Bắt đầu",
+        "link": "/about"
+      }
+    },
+    {
+      "id": 2,
+      "title": "Xây dựng điều tuyệt vời",
+      "description": "Tham gia cùng hàng ngàn người dùng đang chuyển đổi quy trình làm việc của họ.",
+      "cta": {
+        "label": "Tìm hiểu thêm",
+        "link": "/contact"
+      }
+    },
+    {
+      "id": 3,
+      "title": "Giải pháp hiện đại",
+      "description": "Trải nghiệm tương lai của năng suất với các công cụ đổi mới của chúng tôi.",
+      "cta": {
+        "label": "Khám phá ngay",
+        "link": "/about"
+      }
+    }
+  ],
+  "navigation": {
+    "prevSlide": "Slide trước",
+    "nextSlide": "Slide tiếp theo",
+    "firstSlide": "Đây là slide đầu tiên",
+    "lastSlide": "Đây là slide cuối cùng",
+    "paginationBullet": "Đi đến slide {{index}}"
+  }
+}

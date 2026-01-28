@@ -1,0 +1,10 @@
+{
+  "title": "We value your privacy",
+  "description": "We use cookies to enhance your browsing experience and analyze our traffic.",
+  "details": "By clicking 'Accept All', you consent to our use of cookies for analytics and personalization. Click 'Block' to decline non-essential cookies.",
+  "accept": "Accept All",
+  "block": "Block",
+  "acceptAria": "Accept all cookies and enable analytics",
+  "blockAria": "Block non-essential cookies and disable analytics",
+  "learnMore": "Learn more about our Privacy Policy"
+}

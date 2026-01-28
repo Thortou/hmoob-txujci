@@ -1,0 +1,33 @@
+{
+  "title": "お問い合わせ",
+  "description": "ご質問がありますか？お気軽にご連絡ください。メッセージをお送りいただければ、できるだけ早くお返事いたします。",
+  "contactInfo": {
+    "title": "お問い合わせ",
+    "phone": "電話",
+    "email": "メール",
+    "facebook": "Facebook",
+    "address": "住所"
+  },
+  "form": {
+    "title": "メッセージを送る",
+    "name": "名前",
+    "email": "メール",
+    "subject": "件名",
+    "message": "メッセージ",
+    "placeholders": {
+      "name": "お名前",
+      "email": "your.email@example.com",
+      "subject": "どのようなご用件ですか？",
+      "message": "メッセージを入力してください..."
+    },
+    "submitButton": "メッセージを送信",
+    "successMessage": "メッセージありがとうございます！できるだけ早くお返事いたします。"
+  },
+  "location": {
+    "title": "所在地",
+    "description": "下の地図で場所をご確認ください"
+  },
+  "buttons": {
+    "backToHome": "ホームに戻る"
+  }
+}

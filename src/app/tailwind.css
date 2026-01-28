@@ -1,0 +1,14 @@
+@import 'tailwindcss';
+
+/* Configure dark mode to use class-based strategy */
+@custom-variant dark (&:where(.dark, .dark *));
+
+@layer base {
+  *,
+  html,
+  .ant-input {
+    font-family: "LaosPatuxai", "Montserrat", sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+}

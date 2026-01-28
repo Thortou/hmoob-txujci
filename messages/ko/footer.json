@@ -1,0 +1,10 @@
+{
+  "title": "LEARN NEXT",
+  "tagline": "현대적인 웹 애플리케이션 구축",
+  "copyright": "© {year} Learn Next. All rights reserved.",
+  "nav": {
+    "home": "홈",
+    "about": "소개",
+    "contact": "문의"
+  }
+}

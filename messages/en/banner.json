@@ -1,0 +1,38 @@
+{
+  "slides": [
+    {
+      "id": 1,
+      "title": "Welcome to Our Platform",
+      "description": "Discover amazing features and possibilities with our cutting-edge solution.",
+      "cta": {
+        "label": "Get Started",
+        "link": "/about"
+      }
+    },
+    {
+      "id": 2,
+      "title": "Build Something Great",
+      "description": "Join thousands of users who are already transforming their workflow.",
+      "cta": {
+        "label": "Learn More",
+        "link": "/contact"
+      }
+    },
+    {
+      "id": 3,
+      "title": "Modern Solutions",
+      "description": "Experience the future of productivity with our innovative tools.",
+      "cta": {
+        "label": "Explore Now",
+        "link": "/about"
+      }
+    }
+  ],
+  "navigation": {
+    "prevSlide": "Previous slide",
+    "nextSlide": "Next slide",
+    "firstSlide": "This is the first slide",
+    "lastSlide": "This is the last slide",
+    "paginationBullet": "Go to slide {{index}}"
+  }
+}

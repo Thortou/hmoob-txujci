@@ -1,0 +1,33 @@
+{
+  "title": "联系我们",
+  "description": "有问题吗？我们很乐意收到您的来信。请给我们留言，我们将尽快回复。",
+  "contactInfo": {
+    "title": "联系我们",
+    "phone": "电话",
+    "email": "邮箱",
+    "facebook": "Facebook",
+    "address": "地址"
+  },
+  "form": {
+    "title": "给我们留言",
+    "name": "姓名",
+    "email": "邮箱",
+    "subject": "主题",
+    "message": "留言",
+    "placeholders": {
+      "name": "您的姓名",
+      "email": "your.email@example.com",
+      "subject": "这是关于什么？",
+      "message": "您的留言..."
+    },
+    "submitButton": "发送留言",
+    "successMessage": "感谢您的留言！我们会尽快回复您。"
+  },
+  "location": {
+    "title": "我们的位置",
+    "description": "在下面的地图上找到我们"
+  },
+  "buttons": {
+    "backToHome": "返回首页"
+  }
+}

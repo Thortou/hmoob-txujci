@@ -1,0 +1,49 @@
+{
+  "title": "欢迎使用 Learn Next",
+  "subtitle": "使用 Next.js、React 和 Tailwind CSS 构建现代 Web 应用程序",
+  "features": {
+    "fast": {
+      "title": "快速",
+      "description": "通过服务器端渲染实现闪电般的性能"
+    },
+    "modern": {
+      "title": "现代",
+      "description": "使用最新的 React 功能和最佳实践构建"
+    },
+    "easy": {
+      "title": "简单",
+      "description": "简单的基于文件的路由和直观的 API"
+    }
+  },
+  "buttons": {
+    "learnMore": "了解更多",
+    "getInTouch": "联系我们",
+    "backToHome": "返回首页"
+  },
+  "education": {
+    "title": "新学习",
+    "description": "学习是从他人那里获取知识、技能、价值观和观点的过程。这些信息通过学习、教学和研究得到扩展。",
+    "objectives": {
+      "title": "教育目标",
+      "item1": "发展知识和技能",
+      "item2": "培养社会中的优秀人才和知识分子",
+      "item3": "发展经济和国家",
+      "item4": "创造机会平等"
+    },
+    "benefits": {
+      "title": "教育的好处",
+      "item1": "发展分析思维",
+      "item2": "创造工作机会",
+      "item3": "提高生活质量，创造理解和沟通的社会"
+    },
+    "ai": {
+      "title": "使用AI的方法（人工智能）",
+      "description": "创建能够像人类一样思考、学习、决策和工作的机器或软件。例如：ChatGPT、Siri、Google Assistant、YouTube推荐系统、Facebook、TikTok",
+      "importanceTitle": "💡 AI的重要性：",
+      "importance1": "设定明确目标：例如使用AI帮助写作、翻译、规划",
+      "importance2": "提供具体命令：例如：'写一篇关于教育的500字文章'",
+      "importance3": "测试和改进：检查结果并改进命令",
+      "importance4": "验证准确性：有时AI可能会出错"
+    }
+  }
+}

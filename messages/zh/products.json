@@ -1,0 +1,42 @@
+{
+  "seo": {
+    "title": "苗族服装店 - 购买传统 Khaub Ncaws Hmoob | Learn Next",
+    "description": "购买正宗的传统苗族服装（Khaub ncaws hmoob）。浏览我们各种尺寸的白色、绿色和多彩苗族服装系列。手工制作，具有文化工艺。",
+    "keywords": "苗族服装, Khaub ncaws hmoob, 传统苗族服装, 苗族时尚, 民族服装, 苗族服装, 手工苗族服装, 传统苗族服装",
+    "og": {
+      "title": "苗族服装店 - 传统 Khaub Ncaws Hmoob",
+      "description": "发现正宗的苗族传统服装。用文化遗产手工制作的美丽白色、绿色和多彩苗族服装。",
+      "image": "/qeej5.png"
+    }
+  },
+  "title": "传统苗族服装",
+  "subtitle": "探索我们正宗的手工苗族传统服装系列。每件作品都以精美的设计和鲜艳的色彩庆祝我们丰富的文化遗产。",
+  "productCount": "产品可用",
+  "callToAction": {
+    "title": "需要帮助找到完美的尺寸？",
+    "description": "联系我们定制尺寸、特殊订单或有关苗族服装系列的任何问题。",
+    "contactButton": "联系我们",
+    "aboutButton": "了解更多苗族文化"
+  },
+  "detail": {
+    "breadcrumb": {
+      "home": "首页",
+      "products": "产品"
+    },
+    "description": "这件美丽的传统苗族服装特色是代代相传的精致刺绣和手工细节。采用优质材料和正宗技术制成，每件作品代表苗族人民的丰富文化遗产。非常适合文化活动、仪式或表达对苗族传统的赞赏。",
+    "size": "尺寸",
+    "quantity": "数量",
+    "addToCart": "加入购物车",
+    "buyNow": "立即购买",
+    "addToCartSuccess": "已加入购物车:",
+    "buyNowSuccess": "正在前往结账...",
+    "relatedProducts": "此系列的更多产品",
+    "backToProducts": "返回所有产品",
+    "features": {
+      "traditional": "传统苗族刺绣图案",
+      "handmade": "由熟练工匠手工制作",
+      "premium": "优质材料",
+      "authentic": "正宗的苗族文化设计"
+    }
+  }
+}

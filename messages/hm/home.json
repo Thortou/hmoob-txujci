@@ -1,0 +1,49 @@
+{
+  "title": "Txais tos los tom Learn Next",
+  "subtitle": "Ua los lub web application tshiab nrog Next.js, React, thiab Tailwind CSS",
+  "features": {
+    "fast": {
+      "title": "Nrawm",
+      "description": "Kev pabcuam nrawm dua nrog server-side rendering"
+    },
+    "modern": {
+      "title": "Tshiab",
+      "description": "Ua los nrog React features tshiab thiab kev pabcuam zoo tshaj plaws"
+    },
+    "easy": {
+      "title": "Yawg",
+      "description": "Kev txheej txoj hauj lwm raws li file thiab API yooj yim"
+    }
+  },
+  "buttons": {
+    "learnMore": "Ua Xa Pa",
+    "getInTouch": "Mus Nrog",
+    "backToHome": "Rov Nrooj"
+  },
+  "education": {
+    "title": "Kawm Hauv Pa Tshiab",
+    "description": "Kawm yog txoj kev tau txhais tau kev paub, daj phawj, nqi, thiab txoj hauj lwm uas yog los ntawm cov neeg uas rho tawm. Cov ntaub ntawiv no faib tau los ntawm kev kawm, kev hnav, thiab kev tshawb fawb.",
+    "objectives": {
+      "title": "Lus Pabcuam Kev Kawm",
+      "item1": "Rho kev paub thiab daj phawj",
+      "item2": "Ua cov neeg zoo thiab cov neeg xav tau hauv haiv xev",
+      "item3": "Rho lub kev tab tom nyiag thiab lub tebchaws",
+      "item4": "Ua kev sib haum xeeb ntawm cov有机会"
+    },
+    "benefits": {
+      "title": "Kev Pabcuam Kho Kawm",
+      "item1": "Rho kev xav tau kev分析和",
+      "item2": "Ua cov有机会 ua hauj lwm",
+      "item3": "Ceev faj tim ntawd muaj zog, ua ib haiv xev uas pom zoo thiab lus sib cav"
+    },
+    "ai": {
+      "title": "Txoj Haujlwm Ua AI (Artificial Intelligence)",
+      "description": "Ua cov machine lossis software uas xav tau, kawm, teb, thiab ua hauj lwm zoo ib yam li cov neeg. Qhov piv txwv: ChatGPT, Siri, Google Assistant, Cov txheej txoj hauj lwm rau YouTube, Facebook, TikTok",
+      "importanceTitle": "💡 Qhov Zoo Nghoj Cai Tshaj Plaws:",
+      "importance1": "Teb cov lus zoo: Piv txwv li, siv AI pab sau, hnov, sau plan",
+      "importance2": "Hauv cov lus zoo: Piv txwv li: 'Sau daim ntawv 500 lo lusKuv品Kawm'",
+      "importance3": "Siv thiab kho: Saib cov outcomes thiab kho cov lus",
+      "importance4": "Tshawb qhov tshwj: Ib feeb.xml AI yuav yog qhov tsis tau"
+    }
+  }
+}

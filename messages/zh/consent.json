@@ -1,0 +1,10 @@
+{
+  "title": "我们重视您的隐私",
+  "description": "我们使用 cookie 来增强您的浏览体验并分析我们的流量。",
+  "details": "点击 '全部接受'，即表示您同意我们使用 cookie 进行分析和个性化设置。点击 '阻止' 以拒绝非必要的 cookie。",
+  "accept": "全部接受",
+  "block": "阻止",
+  "acceptAria": "接受所有 cookie 并启用分析",
+  "blockAria": "阻止非必要 cookie 并禁用分析",
+  "learnMore": "详细了解我们的隐私政策"
+}

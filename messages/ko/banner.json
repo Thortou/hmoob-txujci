@@ -1,0 +1,38 @@
+{
+  "slides": [
+    {
+      "id": 1,
+      "title": "플랫폼에 오신 것을 환영합니다",
+      "description": "혁신적인 솔루션으로 놀라운 기능과 가능성을 발견하세요.",
+      "cta": {
+        "label": "시작하기",
+        "link": "/about"
+      }
+    },
+    {
+      "id": 2,
+      "title": "훌륭한 것을 만드세요",
+      "description": "이미 워크플로우를 혁신하고 있는 수천 명의 사용자와 함께하세요.",
+      "cta": {
+        "label": "자세히 보기",
+        "link": "/contact"
+      }
+    },
+    {
+      "id": 3,
+      "title": "현대적인 솔루션",
+      "description": "혁신적인 도구로 생산성의 미래를 경험하세요.",
+      "cta": {
+        "label": "지금 탐색",
+        "link": "/about"
+      }
+    }
+  ],
+  "navigation": {
+    "prevSlide": "이전 슬라이드",
+    "nextSlide": "다음 슬라이드",
+    "firstSlide": "이것은 첫 번째 슬라이드입니다",
+    "lastSlide": "이것은 마지막 슬라이드입니다",
+    "paginationBullet": "슬라이드 {{index}}로 이동"
+  }
+}
