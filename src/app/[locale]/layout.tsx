@@ -3,6 +3,7 @@ import { NextIntlClientProvider } from 'next-intl';
 import { getMessages } from 'next-intl/server';
 import { routing } from '@/src/i18n/routing';
 import { notFound } from 'next/navigation';
+import { headers } from 'next/headers';
 import Navbar from "../../components/Navbar";
 import Footer from "../../components/Footer";
 import ConsentBanner from "../../components/ConsentBanner";
@@ -27,6 +28,7 @@ export default async function LocaleLayout({
   const { locale } = await params;
 
   // Ensure that the incoming `locale` is valid
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
   if (!routing.locales.includes(locale as any)) {
     notFound();
   }
@@ -35,13 +37,20 @@ export default async function LocaleLayout({
   // side is the easiest way to get started
   const messages = await getMessages();
 
+  // Check if we're on the chat page using headers
+  const headersList = await headers();
+  const pathname = headersList.get('x-pathname') || '';
+  const isChatPage = pathname.includes('/chat');
+
   return (
     <NextIntlClientProvider messages={messages}>
-      <Navbar />
-      {children}
-      <Footer />
-      <ConsentBanner />
-      <ScrollToTop />
+      {!isChatPage && <Navbar />}
+      <div className={isChatPage ? '' : 'pt-14'}>
+        {children}
+      </div>
+      {!isChatPage && <Footer />}
+      {!isChatPage && <ConsentBanner />}
+      {!isChatPage && <ScrollToTop />}
     </NextIntlClientProvider>
   );
 }

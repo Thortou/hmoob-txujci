@@ -82,6 +82,7 @@ export default function Navbar() {
         <NavLink href="/products">{t('products')}</NavLink>
         <NavLink href="/contact">{t('contact')}</NavLink>
         <NavLink href="/community">{t('community')}</NavLink>
+        <NavLink href="/chat">{t('chat')}</NavLink>
         <LanguageSwitcher />
       </div>
 
@@ -111,6 +112,9 @@ export default function Navbar() {
           </NavLink>
           <NavLink href="/community" onClick={() => setIsOpen(false)}>
             {t('community')}
+          </NavLink>
+          <NavLink href="/chat" onClick={() => setIsOpen(false)}>
+            {t('chat')}
           </NavLink>
           <LanguageSwitcher />
         </div>
