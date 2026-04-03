@@ -2,11 +2,10 @@
 
 import { useState } from "react";
 import { useLocale } from 'next-intl';
-import { useRouter, usePathname } from '@/src/i18n/routing';
+import { usePathname, Link } from '@/src/i18n/routing';
 
 export default function LanguageSwitcher() {
   const locale = useLocale();
-  const router = useRouter();
   const pathname = usePathname();
   const [isOpen, setIsOpen] = useState(false);
 
@@ -20,11 +19,6 @@ export default function LanguageSwitcher() {
     { code: 'hm', label: 'Hmoob', flag: '🇰🇬' },
     { code: 'vi', label: 'Tiếng Việt', flag: '🇻🇳' }
   ];
-
-  const switchLocale = (newLocale: string) => {
-    router.replace(pathname, { locale: newLocale });
-    setIsOpen(false);
-  };
 
   const currentLocale = locales.find(l => l.code === locale);
 
@@ -49,16 +43,18 @@ export default function LanguageSwitcher() {
       {isOpen && (
         <div className="absolute top-full right-0 mt-2 bg-white dark:bg-zinc-800 rounded-lg shadow-lg border border-gray-200 dark:border-zinc-700 overflow-hidden z-50">
           {locales.map((loc) => (
-            <button
+            <Link
               key={loc.code}
-              onClick={() => switchLocale(loc.code)}
+              href={pathname}
+              locale={loc.code}
+              onClick={() => setIsOpen(false)}
               className={`w-full px-4 py-2 text-left hover:bg-sky-50 dark:hover:bg-zinc-700 transition flex items-center gap-3 ${
                 loc.code === locale ? 'bg-sky-100 dark:bg-zinc-700' : ''
               }`}
             >
               <span className="text-lg">{loc.flag}</span>
               <span className="text-sm">{loc.label}</span>
-            </button>
+            </Link>
           ))}
         </div>
       )}
